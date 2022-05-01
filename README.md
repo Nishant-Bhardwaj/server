@@ -1,1 +1,1 @@
-# Config Server
+# External Config Server
